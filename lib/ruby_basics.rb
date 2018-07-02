@@ -8,7 +8,7 @@ end
 
 def argue(phrase)
   phrase = "I'm right and you are wrong!"
-  return argue
+  return phrase
 end
 
 def greeting
